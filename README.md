@@ -1,4 +1,4 @@
-A customizable blog starter using:
+# A customizable blog starter using:
 
 - [Next.js](https://github.com/vercel/next.js) v12
 - [Tailwind](https://tailwindcss.com/) v3.0
